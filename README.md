@@ -1,2 +1,3 @@
-# csharp
-c# programming basics
+# Programming Basics June 2018
+
+C# Programming Basics - exams and tasks
